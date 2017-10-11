@@ -1,0 +1,22 @@
+{
+  "name": "exciting-tech",
+  "version": "0.0.1",
+  "description": "Get the latest exciting tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springernature/exciting-tech.git"
+  },
+  "keywords": [
+    "buzzwords"
+  ],
+  "author": "Charlie Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/springernature/exciting-tech/issues"
+  },
+  "homepage": "https://github.com/springernature/exciting-tech#readme"
+}
