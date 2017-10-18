@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/springernature/exciting-tech.git"
+    "url": "git+https://github.com/sonniesedge/exciting-tech.git"
   },
   "keywords": [
     "buzzwords"
@@ -16,7 +16,7 @@
   "author": "Charlie Owen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/springernature/exciting-tech/issues"
+    "url": "https://github.com/sonniesedge/exciting-tech/issues"
   },
-  "homepage": "https://github.com/springernature/exciting-tech#readme"
+  "homepage": "https://github.com/sonniesedge/exciting-tech#readme"
 }
